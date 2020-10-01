@@ -10,4 +10,5 @@
 有两个示例网站  
 https://c.sjjg.ml/  
 https://sjjg.vercel.app/  
-第一个没用了就用第二个，第一个网站域名可能会过期，第二个应该不会。
+https://onlyforto.github.io/sjjg/  
+第一个没用了就用第二个、第三个，第一个网站域名可能会过期，第二个、第三个应该不会。
