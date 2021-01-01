@@ -9,5 +9,5 @@
 我觉得这应该是全站唯一的一份静态托管不会乱码的，毕竟也没什么人弄这个，哈哈哈。  
 有两个示例网站  
 https://c.sjjg.ml/   
-https://onlyforto.github.io/sjjg/  
+https://onlyforto.github.io/Data-Structure---Described-in-C-language/ 
 第一个没用了就用第二个，第一个网站域名可能会过期，第二个应该不会。
